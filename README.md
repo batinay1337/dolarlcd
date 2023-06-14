@@ -1,4 +1,4 @@
-# Project Title
+# WiFi-connected Dolar to Turkish Lira to the LCD Screen
 
 This project utilizes a microcontroller to display exchange rates of major currencies.
 
